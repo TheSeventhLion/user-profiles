@@ -9,6 +9,10 @@ angular.module('userProfiles')
 				alert('user not found');
 			}
 		});
-	}
+	};
 
 });
+
+
+
+
